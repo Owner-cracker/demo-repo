@@ -1,2 +1,1 @@
-# demo-repo
-my repors for demo
+# owner cracker
